@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/TryHackMe-Top_9%25_Global-00ff9d?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/TryHackMe-Top_2%25_Global-00ff9d?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/PortSwigger-Expert_Tier-7b61ff?style=for-the-badge&logo=portswigger&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Python-3.8+-ff6b6b?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Open_Source-3_Tools-ffb86b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
@@ -71,13 +71,13 @@ AI **red-teaming framework** for adversarial testing of language models at scale
 
 | 🎯 Milestone | 📊 Result |
 |:---|:---:|
-| **TryHackMe** | Top 9% Globally · `[HACKER]` Rank · 44 rooms · 6 badges |
+| **TryHackMe** | Top 2% Globally · `[HACKER]` Rank · 100 rooms · 15 badges |
 | **PortSwigger Web Security Academy** | 100% Complete — through **Expert** tier |
 | **Gandalf AI Challenge** | Top 8% Worldwide (8/8 levels) |
 | **Techtrix '26 Inter-College CTF** | **Top 10 Solo** — 1521 pts / 54 teams |
 | **OverTheWire: Bandit** | All 33 levels cleared |
 | **picoCTF** | 21+ challenges solved |
-| **HackerDNA** | Global Rank #475 |
+| **HackerDNA** | Global Rank #360 |
 
 </div>
 
