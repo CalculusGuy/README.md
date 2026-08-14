@@ -15,8 +15,8 @@
 
 **Cybersecurity Researcher | AI Red Teamer | Builder**
 
-📍 Kolkata → Bangalore (2027)  
-🎓 BCA Cybersecurity — 1st Year @ RCC Institute of Information Technology
+📍 Kolkata → Bangalore(2027)  
+🎓 Cybersecurity Student and Junior Security Researcher (Self Trainee) @PortSwigger , A.I Red Teamer and Lab Specialist @TryHackMe  
 
 ---
 
