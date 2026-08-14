@@ -1,114 +1,174 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF9D&center=true&vCenter=true&width=600&lines=Breaking+things+ethically;And+documenting+it." alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Top_2%25-brightgreen?style=for-the-badge&logo=tryhackme&logoColor=white&color=00ff9d" />
-  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white&color=7b61ff" />
-  <img src="https://img.shields.io/badge/Open_Source-Yes-green?style=for-the-badge&logo=github&logoColor=white&color=ff6b6b" />
-  <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge&color=ffb86b" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9d&height=220&section=header&text=NILANJAN%20CHOWDHURY&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Blue%20Team%20Guy%20%7C%20Red%20Team%20Mindset&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF9D&center=true&vCenter=true&width=650&lines=Breaking+things+ethically.;Documenting+every+step.;Cybersecurity+%40+RCCIIT+Kolkata.;Building+SUDARSHAN%2C+BRAMHASTRA%2C+DIVYASTRA." alt="Typing SVG" />
 
-## 👋 Hi, I'm Nilanjan Chowdhury
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity_Researcher-00ff9d?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Red_Teamer-7b61ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Builder-ff6b6b?style=flat-square" />
-</p>
+<img src="https://img.shields.io/badge/TryHackMe-Top_9%25_Global-00ff9d?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PortSwigger-Expert_Tier-7b61ff?style=for-the-badge&logo=portswigger&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Python-3.8+-ff6b6b?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Open_Source-3_Tools-ffb86b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 
----
+</div>
 
-## 🚀 What I Build
+<br/>
 
-| Tool | Description | Status |
-|------|-------------|--------|
-| <img src="https://img.shields.io/badge/⚡-BRAMHASTRA-00ff9d?style=flat-square" /> | Multi-model prompt injection testing framework for LLMs | ✅ Open-source |
-| <img src="https://img.shields.io/badge/🛡️-SUDARSHAN-7b61ff?style=flat-square" /> | Enterprise DAST engine with CLI + concurrency | ✅ 24 vulns found |
-| <img src="https://img.shields.io/badge/🔴-DIVYASTRA-ff6b6b?style=flat-square" /> | AI red-teaming framework | ✅ Open-source |
+## 🧑‍💻 About Me
 
----
+```yaml
+name:        Nilanjan Chowdhury
+role:        Cybersecurity Student & Independent Security Researcher
+education:   BCA Cybersecurity, RCC Institute of Information Technology, Kolkata (Class of 2029)
+focus:       Web App Pentesting · AI Red Teaming · DAST Tooling
+philosophy:  "Build in public. Break things ethically. Publish the writeup."
+currently:   Grinding CTFs, shipping open-source security tools, hunting my first bug bounty
+```
 
-## 📊 Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CalculusGuy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=f0f0f8" />
-</p>
+## ⚡ Tools I've Built
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CalculusGuy&theme=dark&hide_border=true&background=0d1117&stroke=00ff9d&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" />
-</p>
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+### 🛡️ SUDARSHAN
+Modular Python **DAST engine** — crawler, rule-based vulnerability detection, and JSON/HTML reporting built for real-world scans.
+
+`Python` `CLI` `Concurrency`
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ BRAMHASTRA
+Multi-model **prompt injection testing framework** for probing and evaluating LLM safety boundaries.
+
+`AI Red Teaming` `LLM Security`
+
+</td>
+<td width="33%" valign="top">
+
+### 🔴 DIVYASTRA
+AI **red-teaming framework** for adversarial testing of language models at scale.
+
+`AI Red Teaming` `Automation`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://img.shields.io/badge/⭐_Star_these_repos_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+<br/>
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆-Top_2%25_TryHackMe-00ff9d?style=flat-square" />
-  <img src="https://img.shields.io/badge/🏆-Top_8%25_Gandalf-7b61ff?style=flat-square" />
-  <img src="https://img.shields.io/badge/🏆-Top_10_CTF-ff6b6b?style=flat-square" />
-  <img src="https://img.shields.io/badge/🏆-100%25_PortSwigger-ffb86b?style=flat-square" />
-</p>
+<div align="center">
 
----
+| 🎯 Milestone | 📊 Result |
+|:---|:---:|
+| **TryHackMe** | Top 9% Globally · `[HACKER]` Rank · 44 rooms · 6 badges |
+| **PortSwigger Web Security Academy** | 100% Complete — through **Expert** tier |
+| **Gandalf AI Challenge** | Top 8% Worldwide (8/8 levels) |
+| **Techtrix '26 Inter-College CTF** | **Top 10 Solo** — 1521 pts / 54 teams |
+| **OverTheWire: Bandit** | All 33 levels cleared |
+| **picoCTF** | 21+ challenges solved |
+| **HackerDNA** | Global Rank #475 |
+
+</div>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,bash,kali,linux,git,github,vscode,docker&theme=dark" />
+</div>
 
----
+<div align="center">
+<br/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Shodan-000000?style=flat-square&logo=shodan&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+</div>
 
-## 📝 Latest Articles
+<br/>
 
-<p align="center">
-  <a href="https://medium.com/@nilanjan.calculus">
-    <img src="https://img.shields.io/badge/📖-15+_Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
+## 📊 GitHub Analytics
 
-- [BRAMHASTRA: I Asked 3 LLMs to Leak Their Secrets](https://medium.com/@nilanjan.calculus/bramhastra-i-asked-3-llms-to-leak-their-secrets-one-failed-spectacularly-3d48c3bb1038)
-- [Hacked, Audited, Fixed — 10 Vulnerabilities in One Flask App](https://medium.com/@nilanjan.calculus/hacked-audited-fixed-10-vulnerabilities-in-one-flask-app-0dd829a55aee)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=CalculusGuy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=f0f0f8&ring_color=7b61ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalculusGuy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=f0f0f8" width="49%"/>
 
-## 🌐 Connect
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CalculusGuy&theme=dark&hide_border=true&background=0d1117&stroke=00ff9d&ring=00ff9d&fire=ff6b6b&currStreakLabel=00ff9d" width="70%"/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/nilanjan-chowdhury-a36787359/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/CalculusGuy">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@nilanjan.calculus">
-    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://calculusguy.github.io/nilanjanchowdhury.github.io/">
-    <img src="https://img.shields.io/badge/Website-Visit-navy?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CalculusGuy&theme=react-dark&bg_color=0d1117&color=00ff9d&line=7b61ff&point=ffffff&hide_border=true" width="100%"/>
 
----
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CalculusGuy&color=00ff9d&style=flat-square" />
-</p>
+<details>
+<summary><b>🐍 Contribution Snake (click to expand)</b></summary>
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2000&pause=1000&color=00FF9D&center=true&vCenter=true&width=300&lines=Blue+team+guy;Red+team+mindset." alt="Typing SVG" />
-</p>
+> Add this repo's Actions workflow to auto-generate an animated contribution snake, then it'll render here:
+> `https://raw.githubusercontent.com/CalculusGuy/CalculusGuy/output/github-contribution-grid-snake-dark.svg`
 
----
+</details>
 
-<p align="center">
-  <i>Built. Breaking. Securing. 🔥</i>
-</p>
+<br/>
+
+## ✍️ Latest Writeups
+
+<div align="center">
+<a href="https://medium.com/@nilanjan.calculus">
+<img src="https://img.shields.io/badge/📖_Read_all_9+_articles_on-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+</div>
+
+<br/>
+
+- 🧠 **[BRAMHASTRA: I Asked 3 LLMs to Leak Their Secrets](https://medium.com/@nilanjan.calculus/bramhastra-i-asked-3-llms-to-leak-their-secrets-one-failed-spectacularly-3d48c3bb1038)** — Prompt injection across multiple models
+- 🐞 **[Hacked, Audited, Fixed — 10 Vulnerabilities in One Flask App](https://medium.com/@nilanjan.calculus/hacked-audited-fixed-10-vulnerabilities-in-one-flask-app-0dd829a55aee)** — RCE & insecure deserialization deep dive
+- 🔐 SQL Injection series · CSRF · SSRF · XXE (Expert) · Business Logic (Apprentice → Expert)
+
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/nilanjan-chowdhury-a36787359/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/CalculusGuy">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://medium.com/@nilanjan.calculus">
+<img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://calculusguy.github.io/nilanjanchowdhury.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=CalculusGuy&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,100:0d1117&height=100&section=footer" width="100%"/>
+
+<div align="center">
+<i>🔥 Built. Breaking. Securing.</i>
+</div>
