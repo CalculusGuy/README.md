@@ -3,20 +3,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TryHackMe-Top_2%25-brightgreen?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_Source-Yes-green?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TryHackMe-Top_2%25-brightgreen?style=for-the-badge&logo=tryhackme&logoColor=white&color=00ff9d" />
+  <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white&color=7b61ff" />
+  <img src="https://img.shields.io/badge/Open_Source-Yes-green?style=for-the-badge&logo=github&logoColor=white&color=ff6b6b" />
+  <img src="https://img.shields.io/badge/License-MIT-red?style=for-the-badge&color=ffb86b" />
 </p>
 
 ---
 
 ## 👋 Hi, I'm Nilanjan Chowdhury
 
-**Cybersecurity Researcher | AI Red Teamer | Builder**
-
-📍 Kolkata → Bangalore(2027)  
-🎓 Cybersecurity Student and Junior Security Researcher (Self Trainee) @PortSwigger , A.I Red Teamer and Lab Specialist @TryHackMe  
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity_Researcher-00ff9d?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Red_Teamer-7b61ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Builder-ff6b6b?style=flat-square" />
+</p>
 
 ---
 
@@ -48,6 +49,7 @@
   <img src="https://img.shields.io/badge/🏆-Top_2%25_TryHackMe-00ff9d?style=flat-square" />
   <img src="https://img.shields.io/badge/🏆-Top_8%25_Gandalf-7b61ff?style=flat-square" />
   <img src="https://img.shields.io/badge/🏆-Top_10_CTF-ff6b6b?style=flat-square" />
+  <img src="https://img.shields.io/badge/🏆-100%25_PortSwigger-ffb86b?style=flat-square" />
 </p>
 
 ---
@@ -75,7 +77,6 @@
 
 - [BRAMHASTRA: I Asked 3 LLMs to Leak Their Secrets](https://medium.com/@nilanjan.calculus/bramhastra-i-asked-3-llms-to-leak-their-secrets-one-failed-spectacularly-3d48c3bb1038)
 - [Hacked, Audited, Fixed — 10 Vulnerabilities in One Flask App](https://medium.com/@nilanjan.calculus/hacked-audited-fixed-10-vulnerabilities-in-one-flask-app-0dd829a55aee)
-- [One Semicolon. Root Access. No Password.](https://medium.com/@nilanjan.calculus/one-semicolon-root-access-no-password-d4f60725d027)
 
 ---
 
@@ -107,10 +108,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kolkata→Bangalore→Germany-00ff9d?style=for-the-badge" />
-</p>
 
 <p align="center">
   <i>Built. Breaking. Securing. 🔥</i>
